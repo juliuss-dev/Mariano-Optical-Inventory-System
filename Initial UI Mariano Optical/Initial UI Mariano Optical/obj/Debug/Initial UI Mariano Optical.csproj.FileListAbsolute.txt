@@ -1,0 +1,46 @@
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\bin\Debug\Initial UI Mariano Optical.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\bin\Debug\Initial UI Mariano Optical.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Form1.resources
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Properties.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.csproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.New_Patient.resources
+C:\Users\Student\AppData\Local\Temporary Projects\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.ShowDetails.resources
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.exe
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.pdb
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\bin\Debug\Initial UI Mariano Optical.exe
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\bin\Debug\Initial UI Mariano Optical.pdb
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\ResolveAssemblyReference.cache
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Form1.resources
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.New_Patient.resources
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Properties.Resources.resources
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.ShowDetails.resources
+D:\_\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.csproj.GenerateResource.Cache
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\bin\Debug\Initial UI Mariano Optical.exe
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\bin\Debug\Initial UI Mariano Optical.pdb
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.csprojAssemblyReference.cache
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.New_Patient.resources
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Properties.Resources.resources
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.ShowDetails.resources
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.csproj.GenerateResource.cache
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.exe
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.pdb
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Form3.resources
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Login.resources
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Dashboard.resources
+G:\FD 3-07-2020\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Search.resources
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\bin\Debug\Initial UI Mariano Optical.exe
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\bin\Debug\Initial UI Mariano Optical.pdb
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.csprojAssemblyReference.cache
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Dashboard.resources
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Login.resources
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Form3.resources
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Search.resources
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.New_Patient.resources
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.Properties.Resources.resources
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial_UI_Mariano_Optical.ShowDetails.resources
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.csproj.GenerateResource.cache
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.exe
+G:\Programming\Mariano Optical\Initial UI Mariano Optical\Initial UI Mariano Optical\obj\Debug\Initial UI Mariano Optical.pdb

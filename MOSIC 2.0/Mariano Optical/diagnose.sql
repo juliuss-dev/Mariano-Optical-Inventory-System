@@ -1,0 +1,22 @@
+Create table Diagnose(
+	patientID	int,
+	uva			varchar(20),
+	sph			varchar(20),
+	cyl			varchar(20),
+	axis		varchar(20),
+	padd		varchar(20),
+	bcva		varchar(20),
+	pd			varchar(20),
+	sitlamp		varchar(20),
+	directopt	varchar(20),
+	icare		varchar(20),
+	covertest	varchar(20),
+	colortest	varchar(20),
+	gradeOD		varchar(20),
+	gradeOS		varchar(20),
+	lens		varchar(20),
+	transition	boolean,
+	brand		varchar(20),
+	color		varchar(20),
+	price		varchar(15)
+);

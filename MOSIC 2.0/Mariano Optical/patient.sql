@@ -1,0 +1,15 @@
+create table patient(
+	patientID			int,
+	empID				int,
+	pname				varchar(100),
+	paddress			varchar(150),
+	occupation			varchar(20),
+	age					int,
+	gender				varchar(10),
+	height				int,
+	pweight				int,
+	bp					varchar(10),
+	birthdate			date,
+	cNum				varchar(12),
+	email				varchar(25),
+)
